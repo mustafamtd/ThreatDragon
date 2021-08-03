@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "title": "warriors",
+    "owner": "mustafa",
+    "description": "test TD"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "warriors-td",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 0
+      }
+    ],
+    "reviewer": "mahesh"
+  }
+}
